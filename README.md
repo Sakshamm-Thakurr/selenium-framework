@@ -27,7 +27,8 @@ cart, and checkout flows.
 
 ## Project Structure
 selenium-framework/
-├── pages/              # Page Object Model classes
+
+├── pages/ # Page Object Model classes
 
 │   ├── login_page.py
 
