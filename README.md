@@ -28,16 +28,27 @@ cart, and checkout flows.
 ## Project Structure
 selenium-framework/
 ├── pages/              # Page Object Model classes
+
 │   ├── login_page.py
+
 │   ├── inventory_page.py
+
 │   ├── cart_page.py
+
 │   └── checkout_page.py
+
 ├── tests/              # Test suites
+
 │   ├── test_login.py
+
 │   ├── test_inventory.py
+
 │   └── test_cart_checkout.py
+
 ├── reports/            # HTML test reports
+
 └── .github/workflows/  # CI/CD pipeline
+
 
 ## How to Run
 
